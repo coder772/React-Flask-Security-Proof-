@@ -1,4 +1,4 @@
-# digivax-ent-fazeel(React & Flask)
+# digivax-ent(React & Flask)
 
 > One paragraph statement about the project.
 > 
@@ -59,7 +59,7 @@ security = Security(app, user_datastore)
 Clone the project to your local machine using 
 
 ```bash
-git clone https://github.com/forgelabinc/digivax-ent-fazeel.git
+git clone https://github.com/coder772/digivax-ent.git
 ```
 
 There are two folders, including "react-frontend" folder and "flask-backend" folder. 
@@ -156,11 +156,11 @@ MAIL_PORT = 465
 - [LinkedIn](https://www.linkedin.com/in/erik-bogaard-48049338/)
 - [Website(Forge Lab)](https://theforgelab.com/)
 
-👤 **Fazeel(Full-Stack Software Engineer)**
+👤 **Chris(Senior Frontend Developer)**
 
-- [GitHub](https://github.com/toptalent399)
-- [LinkedIn](https://www.linkedin.com/in/fazeelt/)
-- [Website](https://fazeel-tola.herokuapp.com/)
+- [GitHub](https://github.com/coder772)
+- [LinkedIn](https://www.linkedin.com/in/christian-marks-92768b225/)
+- [Website](https://chris-m.herokuapp.com/)
 
 ## 🤝 Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
