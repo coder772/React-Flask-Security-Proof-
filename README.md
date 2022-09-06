@@ -150,12 +150,6 @@ MAIL_PORT = 465
 
 ## Authors
 
-👤 **Erik(CEO)**
-
-- [GitHub](https://github.com/forgelabinc)
-- [LinkedIn](https://www.linkedin.com/in/erik-bogaard-48049338/)
-- [Website(Forge Lab)](https://theforgelab.com/)
-
 👤 **Chris(Senior Frontend Developer)**
 
 - [GitHub](https://github.com/coder772)
